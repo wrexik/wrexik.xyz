@@ -1,11 +1,3 @@
----
-title: Main Page
-summary: How it started and what to expect
-created: 2024-15-05
-# tags: ['Front-Matter']
-toc: false
----
-
 # Hey, I'm Wrexik
 You can usually catch me around 7AM ☀️ - 1AM 🌙. Yeah, there is so much to see each day.
 My favorite activities are exploring internet, coding, gaming and streaming.
