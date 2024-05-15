@@ -8,7 +8,7 @@ export const site: SiteConfig = {
   lang: 'en-US',
   description: 'Powered by Love :P',
   author: {
-    avatar: '/assets/pwna.jpg',
+    avatar: '/assets/pwna.png',
     name: 'Wrexik',
     status: '💖',
     bio: 'Working on my blog with the companion of Copilot :D',
