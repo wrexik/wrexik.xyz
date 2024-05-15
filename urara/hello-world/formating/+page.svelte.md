@@ -1,6 +1,5 @@
 ---
-title: Elements
-tags: ['Urara', 'Elements']
+title: Formating
 ---
 
 ## Headings
