@@ -1,45 +1,28 @@
 ---
-title: 'Hello World'
-image: '/hello-world/urara.webp'
-alt: 'Urara'
-created: 2021-11-01
-updated: 2021-12-12
-tags:
-  - 'Hello World'
-  - 'Urara'
+title: Main Page
+summary: How it started and what to expect
+created: 2024-15-05
+# tags: ['Front-Matter']
+toc: false
 ---
 
-Welcome to Urara! this article contains some basic operations to help you quickly get started.
+# Hey, I'm Wrexik
+You can usually catch me around 7AM ☀️ - 1AM 🌙. Yeah, there is so much to see each day.
+My favorite activities are exploring internet, coding, gaming and streaming.
+IT is not my only interest, I also like to ```*read*``` maybe not that but I love riding bikes 🚲.
+Whether it's downhill or urban, it's mine 💖.
 
-## Developing
 
-Start a development server:
 
-```bash
-# http://127.0.0.1:5173
-pnpm dev
-```
+## What to expect?
+* Sharing experience
+* Things I got to know recently
+* Class notes
+* What I'm up to
 
-or listen to different IP and port:
+## But why?
+  **I just love markdown and the idea of keeping things around :) <br> and I want to try something new!**
 
-```bash
-# http://127.0.0.1:3000
-pnpm dev --port 3000
 
-# http://0.0.0.0:3000
-nr dev --host 0.0.0.0 --port 3000
-```
-
-## Building
-
-Create a production version of ur blog:
-
-```bash
-pnpm build
-```
-
-u can preview the built app with `pnpm preview`.
-
-## Documentation
-
-For full documentation, visit [urara-docs.netlify.app](https://urara-docs.netlify.app).
+---
+This is only the begining :)

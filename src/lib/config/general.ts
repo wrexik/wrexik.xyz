@@ -61,7 +61,7 @@ export const header: HeaderConfig = {
     },
     {
       text: 'Elements',
-      link: '/hello-world/elements'
+      link: '/hello-world/formating'
     }
   ]
 }
