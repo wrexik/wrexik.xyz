@@ -58,6 +58,10 @@ export const header: HeaderConfig = {
     {
       text: 'Main Site',
       link: '/hello-world'
+    },
+    {
+      text: 'Main Site',
+      link: '/index'
     }
   ]
 }

@@ -15,7 +15,7 @@ I want to add a document to track links to websites, applications, tools, and so
 [Obsidian](https://obsidian.md/) - Notekeeping and work management. Lots of addons. ```9/10```
 <br>
 
-[Notion](notion.so) - To-Do, management, organizing. We use it to manage [Esteris](https://esteris.eu) ```9/10```
+[Notion](https://notion.so) - To-Do, management, organizing. We use it to manage [Esteris](https://esteris.eu) ```9/10```
 <br>
 
 # AI
