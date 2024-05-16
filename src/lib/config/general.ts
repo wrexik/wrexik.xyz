@@ -58,6 +58,18 @@ export const header: HeaderConfig = {
     {
       text: 'Home',
       link: '/index'
+    },
+    {
+      text: 'GitHub',
+      link: 'https://github.com/wrexik'
+    },
+    {
+      text: 'Instagram',
+      link: 'https://instagram.com/notwrexik'
+    },
+    {
+      text: 'Discord',
+      link: 'https://discord.com/users/559750828345393186'
     }
   ]
 }
