@@ -3,8 +3,6 @@ title: Operating systems
 tags: ['Linux', 'Windows', 'Flashing']
 ---
 
-# Operating systems
-
 ### Flashing
 [Rufus](https://rufus.ie/) - Tool for creating bootable USB drives. With functions for customizing Windows installations. ```10/10``` <br />
 [Raspberry imager](https://www.raspberrypi.org/software/) - Official RPI software for not only RPI devices. I like to use it for setting up things quickly. ```10/10``` <br />

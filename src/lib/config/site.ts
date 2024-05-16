@@ -4,14 +4,14 @@ export const site: SiteConfig = {
   protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
   domain: import.meta.env.URARA_SITE_DOMAIN ?? 'urara-demo.netlify.app',
   title: 'Wrexik Blog',
-  subtitle: 'Mainpage',
+  subtitle: 'Home',
   lang: 'en-US',
   description: 'Powered by Love :P',
   author: {
     avatar: '/assets/favicon.png',
     name: 'Wrexik',
     status: '💖',
-    bio: 'Working on my blog with the companion of Copilot :D',
+    bio: 'Working on my site with the companion of Copilot :D     IG: @notwrexik | Discord: @Wrexik',
   },
   themeColor: '#868abd'
 }
