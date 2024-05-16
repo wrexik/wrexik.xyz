@@ -1,13 +1,7 @@
 ---
 title: Software
-tags: // label
-    - 'IDE'
-    - 'Editors'
-    - 'AI'
-    - 'Tools'
 ---
 
-Hi today I will be working on the contents of this website.
 I want to add a document to track links to websites, applications, tools, and some interesting stuff I will come across 😉.
 
 # Editors & IDE & Notes

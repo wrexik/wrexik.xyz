@@ -1,9 +1,5 @@
 ---
 title: Operating systems
-tags: // label
-    - 'OS'
-    - 'Linux'
-    - 'Windows'
 ---
 
 # Operating systems
