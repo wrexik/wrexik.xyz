@@ -1,4 +1,4 @@
-# Budget PC setup
+# Budget PC
 
 ### The begining ☀️
 
@@ -29,6 +29,6 @@ And this was pretty easy, but imposible without [this](https://www.youtube.com/w
 ### And this is it!
 
 ![Bad Quality ahhh](/index/PC/beauty.jpg)
-![Bad Quality ahhh](/index/PC/pc.webm)
+![Bad Quality ahhh](/index/PC/pc.gif)
 
 
