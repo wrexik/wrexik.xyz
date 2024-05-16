@@ -57,7 +57,7 @@ export const header: HeaderConfig = {
   nav: [
     {
       text: 'Main Site',
-      link: '/hello-world'
+      link: '/index'
     }
   ]
 }
