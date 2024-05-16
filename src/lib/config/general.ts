@@ -56,11 +56,11 @@ export const head: HeadConfig = {}
 export const header: HeaderConfig = {
   nav: [
     {
-      text: 'Main Site',
+      text: 'Home',
       link: '/hello-world'
     },
     {
-      text: 'Main Site',
+      text: 'Posts',
       link: '/index'
     }
   ]
