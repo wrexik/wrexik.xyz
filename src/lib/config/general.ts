@@ -58,10 +58,6 @@ export const header: HeaderConfig = {
     {
       text: 'Main Site',
       link: '/hello-world'
-    },
-    {
-      text: 'Formating - TMP',
-      link: '/hello-world/formating'
     }
   ]
 }
