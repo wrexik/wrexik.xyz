@@ -1,5 +1,5 @@
 ---
-title: Budget 🥺 PC
+title: My PC
 tags: ['PC', 'PC Setup', 'PC Build', 'RTX']
 ---
 
@@ -9,7 +9,7 @@ So this all started when I was like 10. And man, those times. With my friends we
 At that time I also got into coding and scripting 👨‍💻. And I was in need of a new computer. Got the new computer and it lasted with me for around 3 years. And again I was in need of something **BIG** that would meet all my needs! Yea, I started saving and after a long wait of 6 months or 15759360 seconds ⏱️ of counting and *ahhh* There it is 😎! 
 
 ### The Build 🧭
-* **CPU**: 12900k 16 cores - clocked to 5,3 Ghz
+* **CPU**: i9 12900k 16 cores - clocked to 5,3 Ghz
 * **GPU**: Asus ROG Strix 4070ti OC
 * **RAM**: Corsair Vengeance 32GB DDR4 RGB RT white - clocked to 4000 MT/s
 * **Motherboard**: Asus Z690 TUF Gaming Plus
