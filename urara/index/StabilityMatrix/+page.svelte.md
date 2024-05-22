@@ -20,7 +20,7 @@ First of all, we need to make sure that we meet the **Minimal** requirements:
 
 Next up is downloading the Stability Matrix app. <br />
 This is available here: 
-[Official website]("https://lykos.ai/downloads") or you might prefer [Github](https://github.com/LykosAI/StabilityMatrix)
+[Official website](https://lykos.ai/downloads/) or you might prefer [Github](https://github.com/LykosAI/StabilityMatrix/)
 
 Okay, the installation is pretty straight forward. The app should just launch.
 The next step is to install our interface and also the models we want to use.
