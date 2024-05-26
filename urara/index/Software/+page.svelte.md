@@ -5,13 +5,15 @@ tags: ['IDE', 'Programs', 'Editors', 'Programs', 'Windows', 'Linux', 'AI']
 
 I want to add a document to track links to websites, applications, tools, and some interesting stuff I will come across 😉.
 
-# Editors & IDE & Notes
+# Code editors & IDE
 
 [Visual Studio Code](https://code.visualstudio.com/) - Probably one of the best all-in-one code editors. ```10/10``` <br />
 [Visual Studio](https://code.visualstudio.com/) - Same but different IDE. Used mainly for C# and C++. ```7/10``` <br />
+
+## Notes & Workflow
+
 [Obsidian](https://obsidian.md/) - Notekeeping and work management. Lots of addons. ```9/10``` <br />
 [Notion](https://notion.so) - To-Do, management, organizing. We use it to manage [Esteris](https://esteris.eu) ```9/10``` <br />
-
 
 # AI
 
@@ -27,15 +29,20 @@ I want to add a document to track links to websites, applications, tools, and so
 
 # Network Tools
 
-[Curl](https://curl.se/) - Command-line tool for making HTTP requests. Offen used by me to see content of site from cli. ```8/10``` <br />
+[Curl](https://curl.se/) - Command-line tool for making HTTP requests. Often used by me to see content of site from cli. ```8/10``` <br />
 [ngrok](https://ngrok.com/) - Useful for testing webhooks and local development. I used it in now outdated project: [Tunnel bot](https://github.com/wrexik/discord-tunnel-bot)  ```9/10``` <br />
 [Wireshark](https://www.wireshark.org/) - View packets and analyze network traffic. ```10/10``` <br />
-[Angry IP Scanner](https://angryip.org/) - Great program for searching local devices. E.g. RPI. ```7/10``` <br />
+[Angry IP Scanner](https://angryip.org/) - Great program for searching local devices. E.g., RPI. ```7/10``` <br />
 [Nmap](https://nmap.org/) - Network exploration and security analyzing tool. Often used to look for vulnerabilities. ```10/10``` <br />
 
 # Office
+
 [LibreOffice](https://www.libreoffice.org/) - Free and open-source office apps. Preinstalled on [`Ubuntu`](https://wrexik.xyz/index/OSs) ```7/10``` <br />
 [Office 365](https://www.office.com/) - Cloud-based subscription service provided by Microsoft. Includes popular applications like Word, Excel, and PowerPoint. ```9/10``` <br />
 > Note: Obsidian and Notion are amazing Word alternatives.
 
+# Image Editing
 
+[Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - Photoshop, just photoshop. I love every single function and use it a lot. Also I really like its AI ```9/10``` <br />
+[Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) - Photo editing and organizing software. I use it for its image refining. And management of the photos. ```8/10``` <br />
+[GIMP](https://www.gimp.org/) - Free and open-source image editing software. I prefer Photoshop. ```7/10``` <br />
