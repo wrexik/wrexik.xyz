@@ -39,7 +39,7 @@ Now models, there is plenty to choose from. Either HuggingFace or CivitAI.
 > Note for CivitAI you need an API key to download the models from the APP. **(It is FREE)**
 
 
-My most used ones are: 
+My most used ones are:
 * Pony Realism *by ZyloO*
 * Airtist Realistic XL *by CAIrtist*
 * Realistic Vision V6 B1 *by SG_161222*

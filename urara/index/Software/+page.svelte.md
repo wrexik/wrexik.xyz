@@ -19,6 +19,7 @@ I want to add a document to track links to websites, applications, tools, and so
 
 [HuggingFace](https://huggingface.co/) - Use AI applications for free. Download models and programs. ```10/10``` <br />
 [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Automatic installer and manager for self-hosted AI image models and tools. ```10/10``` <br />
+[Suno AI](https://suno.ai/) - AI-powered voice assistant for developers. Provides natural language understanding and voice command capabilities. ```9/10``` <br />
 
 
 [Okada VC](https://github.com/w-okada/voice-changer) - Real-time AI voice changer using RVC models. Cuda / CPU ```10/10``` <br />

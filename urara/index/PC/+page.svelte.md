@@ -18,11 +18,11 @@ At that time I also got into coding and scripting 👨‍💻. And I was in need
 * **Case**: Lian-li Air Mini
 
 ### Things weren't that smooth tho 😂:
-The case in the configuration is well not ideal. Originally, my first case for this build was the H510 from NZXT. But due to my GPU being the size of a **sheet of paper** and not able to close the side panel because of the cable, I had to get a new one <br />
+The case in the configuration is well not ideal. Originally, my first case for this build was the H510 from NZXT. But due to my GPU clearance between the GPU and the AIO being the size of a **sheet of paper** and not able to close the side panel because of the cable, I had to get a new one <br />
 
 ![PC](/index/PC/gpu.jpg) <br />
 
-So yeah... Next, I got a brand new and shiny **Air Mini** and yet again another complication. But I calculated that one, I wasn't the only one with this problem. And I did know this before buying the new case. The AIO wouldn't fit. <br />
+So yeah... Next, I got a brand new and shiny **O11 Air Mini** and yet again another complication. But I calculated that one, I wasn't the only one with this problem. And I did know this before buying the new case. The AIO wouldn't fit. <br />
 
 ![Problem](/index/PC/solved.png) <br />
 
