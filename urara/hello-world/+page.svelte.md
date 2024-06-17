@@ -11,8 +11,8 @@ Whether it's downhill or urban, it's mine 💖.
 * What I'm up to
 
 ## Recommended reading
-[Stability Matrix](https://wrexik.xyz/index/StabilityMatrix/)
-[Software](https://wrexik.xyz/index/Software/)
+* [Stability Matrix](https://wrexik.xyz/index/StabilityMatrix/) - Guide to local AI image generation
+* [Software](https://wrexik.xyz/index/Software/) - Usefull software list
 
 ## But why?
   **I just love markdown and the idea of keeping things around :) <br> and I want to try something new!**

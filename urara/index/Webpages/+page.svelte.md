@@ -3,8 +3,6 @@ title: Usefull websites
 tags: ['Programs', 'Editors', 'Programs', 'Windows', 'Linux', 'AI']
 ---
 
-# Usefull websites
-
 ## Media editing
 [Remove.bg](https://remove.bg) - I love this one, usefull for presentations when you need to remove background from image. <br />
 [EZGIF](https://www.easygif.com) - A great website for creating and editing GIFs easily. <br />
