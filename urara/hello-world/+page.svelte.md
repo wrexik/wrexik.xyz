@@ -2,8 +2,7 @@
 You can usually catch me around 7 AM ☀️ - 1 AM 🌙. Yeah, there is so much to see each day. My favorite activities are exploring the internet, coding, gaming, and streaming. IT is not my only interest; I also like to *read*—maybe not that, but I love riding bikes 🚲. Also, check out my [new site](https://catgirl.singles), being hosted only on a Pi 3B+ 🐌! Whether it's downhill or urban, it's mine 💖.
 
 # Updates:
-- Hello, sorry for not updating for a while. I have a lot to cover, so stay tuned. 
-  The first thing I'm going to add is my new project called [Gcodie](https://github.com/wrexik/gcodie) and cover more of the things I'm now up to.
+- Hello, Im building a home lab so there will be a lots of things posted here about it!
 
 ## What to expect?
 * Sharing experiences

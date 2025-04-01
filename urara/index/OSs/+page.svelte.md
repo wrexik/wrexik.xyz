@@ -26,3 +26,10 @@ tags: ['Linux', 'Windows', 'Flashing']
 ##### Linux
 [Conky](https://github.com/brndnmtthws/conky) - Widgets and system monitor. Usefull for easy customization. ```9/10``` <br />
 [Grub Customizer](https://launchpad.net/grub-customizer) - Graphical interface to customize the GRUB bootloader settings and messages. And also select the perfered OS. ```8/10``` <br />
+
+##### Networking
+[PfSense](https://www.pfsense.org/) - Open-source firewall and router software. I use it for my home lab. ```10/10``` <br />
+[OPNsense](https://opnsense.org/) - Fork of pfSense with a focus on security and performance. I have no experience with it. ```9/10``` <br />
+[OpenWRT](https://openwrt.org/) - Linux-based firmware for routers. Works with aliexpress routers ```8/10``` <br />
+[Wifi Pinaple](https://github.com/xchwarze/wifi-pineapple-cloner) - Wifi Pineapple, works with generic hardware & aliexpress routers. ```10/10``` <br />
+****
