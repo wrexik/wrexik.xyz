@@ -12,32 +12,37 @@
     
         <url>
             <loc>https://urara-demo.netlify.app/index/Webpages</loc>
-            <lastmod>2024-10-17T19:03:10.840Z</lastmod>
+            <lastmod>2025-04-01T07:19:49.331Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://urara-demo.netlify.app/index/homelab-V1</loc>
+            <lastmod>2025-04-01T07:19:49.331Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://urara-demo.netlify.app/index/Software</loc>
-            <lastmod>2024-10-17T19:03:10.836Z</lastmod>
+            <lastmod>2025-04-01T07:19:49.329Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://urara-demo.netlify.app/index/StabilityMatrix</loc>
-            <lastmod>2024-10-17T19:03:10.836Z</lastmod>
+            <lastmod>2025-04-01T07:19:49.329Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://urara-demo.netlify.app/hello-world</loc>
-            <lastmod>2024-10-17T19:03:10.796Z</lastmod>
+            <lastmod>2025-04-01T07:19:49.303Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://urara-demo.netlify.app/index/OSs</loc>
-            <lastmod>2024-10-17T19:03:10.796Z</lastmod>
+            <lastmod>2025-04-01T07:19:49.303Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://urara-demo.netlify.app/index/PC</loc>
-            <lastmod>2024-10-17T19:03:10.796Z</lastmod>
+            <lastmod>2025-04-01T07:19:49.303Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>
